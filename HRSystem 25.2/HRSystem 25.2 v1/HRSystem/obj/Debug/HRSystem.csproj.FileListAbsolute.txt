@@ -1,0 +1,165 @@
+D:\Projects\SolutionsStorage\HRSystem\HRSystem\bin\roslyn\csc.exe
+D:\Projects\SolutionsStorage\HRSystem\HRSystem\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Projects\SolutionsStorage\HRSystem\HRSystem\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Projects\SolutionsStorage\HRSystem\HRSystem\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Projects\SolutionsStorage\HRSystem\HRSystem\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Projects\SolutionsStorage\HRSystem\HRSystem\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Projects\SolutionsStorage\HRSystem\HRSystem\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Projects\SolutionsStorage\HRSystem\HRSystem\bin\roslyn\System.Collections.Immutable.dll
+D:\Projects\SolutionsStorage\HRSystem\HRSystem\bin\roslyn\System.Reflection.Metadata.dll
+D:\Projects\SolutionsStorage\HRSystem\HRSystem\bin\roslyn\vbc.exe
+D:\Projects\SolutionsStorage\HRSystem\HRSystem\bin\roslyn\VBCSCompiler.exe
+D:\Projects\SolutionsStorage\HRSystem\HRSystem\bin\roslyn\VBCSCompiler.exe.config
+D:\Projects\SolutionsStorage\HRSystem\HRSystem\bin\HRSystem.dll.config
+D:\Projects\SolutionsStorage\HRSystem\HRSystem\bin\HRSystem.dll
+D:\Projects\SolutionsStorage\HRSystem\HRSystem\bin\HRSystem.pdb
+D:\Projects\SolutionsStorage\HRSystem\HRSystem\bin\Antlr3.Runtime.dll
+D:\Projects\SolutionsStorage\HRSystem\HRSystem\bin\EntityFramework.dll
+D:\Projects\SolutionsStorage\HRSystem\HRSystem\bin\EntityFramework.SqlServer.dll
+D:\Projects\SolutionsStorage\HRSystem\HRSystem\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Projects\SolutionsStorage\HRSystem\HRSystem\bin\Microsoft.Web.Infrastructure.dll
+D:\Projects\SolutionsStorage\HRSystem\HRSystem\bin\Newtonsoft.Json.dll
+D:\Projects\SolutionsStorage\HRSystem\HRSystem\bin\System.Web.Helpers.dll
+D:\Projects\SolutionsStorage\HRSystem\HRSystem\bin\System.Web.Mvc.dll
+D:\Projects\SolutionsStorage\HRSystem\HRSystem\bin\System.Web.Optimization.dll
+D:\Projects\SolutionsStorage\HRSystem\HRSystem\bin\System.Web.Razor.dll
+D:\Projects\SolutionsStorage\HRSystem\HRSystem\bin\System.Web.WebPages.Deployment.dll
+D:\Projects\SolutionsStorage\HRSystem\HRSystem\bin\System.Web.WebPages.dll
+D:\Projects\SolutionsStorage\HRSystem\HRSystem\bin\System.Web.WebPages.Razor.dll
+D:\Projects\SolutionsStorage\HRSystem\HRSystem\bin\WebGrease.dll
+D:\Projects\SolutionsStorage\HRSystem\HRSystem\bin\EntityFramework.xml
+D:\Projects\SolutionsStorage\HRSystem\HRSystem\bin\EntityFramework.SqlServer.xml
+D:\Projects\SolutionsStorage\HRSystem\HRSystem\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Projects\SolutionsStorage\HRSystem\HRSystem\bin\System.Web.Helpers.xml
+D:\Projects\SolutionsStorage\HRSystem\HRSystem\bin\System.Web.Mvc.xml
+D:\Projects\SolutionsStorage\HRSystem\HRSystem\bin\System.Web.Optimization.xml
+D:\Projects\SolutionsStorage\HRSystem\HRSystem\bin\System.Web.Razor.xml
+D:\Projects\SolutionsStorage\HRSystem\HRSystem\bin\System.Web.WebPages.xml
+D:\Projects\SolutionsStorage\HRSystem\HRSystem\bin\System.Web.WebPages.Deployment.xml
+D:\Projects\SolutionsStorage\HRSystem\HRSystem\bin\System.Web.WebPages.Razor.xml
+D:\Projects\SolutionsStorage\HRSystem\HRSystem\bin\Antlr3.Runtime.pdb
+D:\Projects\SolutionsStorage\HRSystem\HRSystem\bin\Newtonsoft.Json.xml
+D:\Projects\SolutionsStorage\HRSystem\HRSystem\obj\Debug\HRSystem.csprojResolveAssemblyReference.cache
+D:\Projects\SolutionsStorage\HRSystem\HRSystem\obj\Debug\HRSystem.Migrations.InitialCreate.resources
+D:\Projects\SolutionsStorage\HRSystem\HRSystem\obj\Debug\HRSystem.Migrations.migr1.resources
+D:\Projects\SolutionsStorage\HRSystem\HRSystem\obj\Debug\HRSystem.Migrations.ParentRoleNUllable.resources
+D:\Projects\SolutionsStorage\HRSystem\HRSystem\obj\Debug\HRSystem.Migrations.EmployeeChnage.resources
+D:\Projects\SolutionsStorage\HRSystem\HRSystem\obj\Debug\HRSystem.Migrations.AddRoleHierarchy.resources
+D:\Projects\SolutionsStorage\HRSystem\HRSystem\obj\Debug\HRSystem.Migrations.AddRoleHierarchy2.resources
+D:\Projects\SolutionsStorage\HRSystem\HRSystem\obj\Debug\HRSystem.Migrations.AddRoleHierarchy4.resources
+D:\Projects\SolutionsStorage\HRSystem\HRSystem\obj\Debug\HRSystem.Migrations.AddRoleHierarchy5.resources
+D:\Projects\SolutionsStorage\HRSystem\HRSystem\obj\Debug\HRSystem.Migrations.AddRoleHierarchy6.resources
+D:\Projects\SolutionsStorage\HRSystem\HRSystem\obj\Debug\HRSystem.csproj.GenerateResource.Cache
+D:\Projects\SolutionsStorage\HRSystem\HRSystem\obj\Debug\HRSystem.dll
+D:\Projects\SolutionsStorage\HRSystem\HRSystem\obj\Debug\HRSystem.pdb
+E:\DIDO Projects\1HRSystemWithAddedData\HRSystem\HRSystem\bin\roslyn\csc.exe
+E:\DIDO Projects\1HRSystemWithAddedData\HRSystem\HRSystem\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\DIDO Projects\1HRSystemWithAddedData\HRSystem\HRSystem\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\DIDO Projects\1HRSystemWithAddedData\HRSystem\HRSystem\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\DIDO Projects\1HRSystemWithAddedData\HRSystem\HRSystem\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\DIDO Projects\1HRSystemWithAddedData\HRSystem\HRSystem\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\DIDO Projects\1HRSystemWithAddedData\HRSystem\HRSystem\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\DIDO Projects\1HRSystemWithAddedData\HRSystem\HRSystem\bin\roslyn\System.Collections.Immutable.dll
+E:\DIDO Projects\1HRSystemWithAddedData\HRSystem\HRSystem\bin\roslyn\System.Reflection.Metadata.dll
+E:\DIDO Projects\1HRSystemWithAddedData\HRSystem\HRSystem\bin\roslyn\vbc.exe
+E:\DIDO Projects\1HRSystemWithAddedData\HRSystem\HRSystem\bin\roslyn\VBCSCompiler.exe
+E:\DIDO Projects\1HRSystemWithAddedData\HRSystem\HRSystem\bin\roslyn\VBCSCompiler.exe.config
+E:\DIDO Projects\1HRSystemWithAddedData\HRSystem\HRSystem\bin\HRSystem.dll.config
+E:\DIDO Projects\1HRSystemWithAddedData\HRSystem\HRSystem\bin\HRSystem.dll
+E:\DIDO Projects\1HRSystemWithAddedData\HRSystem\HRSystem\bin\HRSystem.pdb
+E:\DIDO Projects\1HRSystemWithAddedData\HRSystem\HRSystem\bin\Antlr3.Runtime.dll
+E:\DIDO Projects\1HRSystemWithAddedData\HRSystem\HRSystem\bin\EntityFramework.dll
+E:\DIDO Projects\1HRSystemWithAddedData\HRSystem\HRSystem\bin\EntityFramework.SqlServer.dll
+E:\DIDO Projects\1HRSystemWithAddedData\HRSystem\HRSystem\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\DIDO Projects\1HRSystemWithAddedData\HRSystem\HRSystem\bin\Microsoft.Web.Infrastructure.dll
+E:\DIDO Projects\1HRSystemWithAddedData\HRSystem\HRSystem\bin\Newtonsoft.Json.dll
+E:\DIDO Projects\1HRSystemWithAddedData\HRSystem\HRSystem\bin\System.Web.Helpers.dll
+E:\DIDO Projects\1HRSystemWithAddedData\HRSystem\HRSystem\bin\System.Web.Mvc.dll
+E:\DIDO Projects\1HRSystemWithAddedData\HRSystem\HRSystem\bin\System.Web.Optimization.dll
+E:\DIDO Projects\1HRSystemWithAddedData\HRSystem\HRSystem\bin\System.Web.Razor.dll
+E:\DIDO Projects\1HRSystemWithAddedData\HRSystem\HRSystem\bin\System.Web.WebPages.Deployment.dll
+E:\DIDO Projects\1HRSystemWithAddedData\HRSystem\HRSystem\bin\System.Web.WebPages.dll
+E:\DIDO Projects\1HRSystemWithAddedData\HRSystem\HRSystem\bin\System.Web.WebPages.Razor.dll
+E:\DIDO Projects\1HRSystemWithAddedData\HRSystem\HRSystem\bin\WebGrease.dll
+E:\DIDO Projects\1HRSystemWithAddedData\HRSystem\HRSystem\bin\EntityFramework.xml
+E:\DIDO Projects\1HRSystemWithAddedData\HRSystem\HRSystem\bin\EntityFramework.SqlServer.xml
+E:\DIDO Projects\1HRSystemWithAddedData\HRSystem\HRSystem\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\DIDO Projects\1HRSystemWithAddedData\HRSystem\HRSystem\bin\System.Web.Helpers.xml
+E:\DIDO Projects\1HRSystemWithAddedData\HRSystem\HRSystem\bin\System.Web.Mvc.xml
+E:\DIDO Projects\1HRSystemWithAddedData\HRSystem\HRSystem\bin\System.Web.Optimization.xml
+E:\DIDO Projects\1HRSystemWithAddedData\HRSystem\HRSystem\bin\System.Web.Razor.xml
+E:\DIDO Projects\1HRSystemWithAddedData\HRSystem\HRSystem\bin\System.Web.WebPages.xml
+E:\DIDO Projects\1HRSystemWithAddedData\HRSystem\HRSystem\bin\System.Web.WebPages.Deployment.xml
+E:\DIDO Projects\1HRSystemWithAddedData\HRSystem\HRSystem\bin\System.Web.WebPages.Razor.xml
+E:\DIDO Projects\1HRSystemWithAddedData\HRSystem\HRSystem\bin\Antlr3.Runtime.pdb
+E:\DIDO Projects\1HRSystemWithAddedData\HRSystem\HRSystem\bin\Newtonsoft.Json.xml
+E:\DIDO Projects\1HRSystemWithAddedData\HRSystem\HRSystem\obj\Debug\HRSystem.csprojResolveAssemblyReference.cache
+E:\DIDO Projects\1HRSystemWithAddedData\HRSystem\HRSystem\obj\Debug\HRSystem.Migrations.InitialCreate.resources
+E:\DIDO Projects\1HRSystemWithAddedData\HRSystem\HRSystem\obj\Debug\HRSystem.Migrations.migr1.resources
+E:\DIDO Projects\1HRSystemWithAddedData\HRSystem\HRSystem\obj\Debug\HRSystem.Migrations.ParentRoleNUllable.resources
+E:\DIDO Projects\1HRSystemWithAddedData\HRSystem\HRSystem\obj\Debug\HRSystem.Migrations.EmployeeChnage.resources
+E:\DIDO Projects\1HRSystemWithAddedData\HRSystem\HRSystem\obj\Debug\HRSystem.Migrations.AddRoleHierarchy.resources
+E:\DIDO Projects\1HRSystemWithAddedData\HRSystem\HRSystem\obj\Debug\HRSystem.Migrations.AddRoleHierarchy2.resources
+E:\DIDO Projects\1HRSystemWithAddedData\HRSystem\HRSystem\obj\Debug\HRSystem.Migrations.AddRoleHierarchy4.resources
+E:\DIDO Projects\1HRSystemWithAddedData\HRSystem\HRSystem\obj\Debug\HRSystem.Migrations.AddRoleHierarchy5.resources
+E:\DIDO Projects\1HRSystemWithAddedData\HRSystem\HRSystem\obj\Debug\HRSystem.Migrations.AddRoleHierarchy6.resources
+E:\DIDO Projects\1HRSystemWithAddedData\HRSystem\HRSystem\obj\Debug\HRSystem.csproj.GenerateResource.Cache
+E:\DIDO Projects\1HRSystemWithAddedData\HRSystem\HRSystem\obj\Debug\HRSystem.dll
+E:\DIDO Projects\1HRSystemWithAddedData\HRSystem\HRSystem\obj\Debug\HRSystem.pdb
+E:\DIDO Projects\1HRSystemWithAddedData\HRSystem\HRSystem\obj\Debug\HRSystem.Migrations.AddRoleHierarchy7.resources
+D:\Demo2 Final\HRSystem 25.2\HRSystem 25.2 v1\HRSystem\bin\roslyn\csc.exe
+D:\Demo2 Final\HRSystem 25.2\HRSystem 25.2 v1\HRSystem\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Demo2 Final\HRSystem 25.2\HRSystem 25.2 v1\HRSystem\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Demo2 Final\HRSystem 25.2\HRSystem 25.2 v1\HRSystem\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Demo2 Final\HRSystem 25.2\HRSystem 25.2 v1\HRSystem\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Demo2 Final\HRSystem 25.2\HRSystem 25.2 v1\HRSystem\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Demo2 Final\HRSystem 25.2\HRSystem 25.2 v1\HRSystem\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Demo2 Final\HRSystem 25.2\HRSystem 25.2 v1\HRSystem\bin\roslyn\System.Collections.Immutable.dll
+D:\Demo2 Final\HRSystem 25.2\HRSystem 25.2 v1\HRSystem\bin\roslyn\System.Reflection.Metadata.dll
+D:\Demo2 Final\HRSystem 25.2\HRSystem 25.2 v1\HRSystem\bin\roslyn\vbc.exe
+D:\Demo2 Final\HRSystem 25.2\HRSystem 25.2 v1\HRSystem\bin\roslyn\VBCSCompiler.exe
+D:\Demo2 Final\HRSystem 25.2\HRSystem 25.2 v1\HRSystem\bin\roslyn\VBCSCompiler.exe.config
+D:\Demo2 Final\HRSystem 25.2\HRSystem 25.2 v1\HRSystem\bin\HRSystem.dll.config
+D:\Demo2 Final\HRSystem 25.2\HRSystem 25.2 v1\HRSystem\bin\HRSystem.dll
+D:\Demo2 Final\HRSystem 25.2\HRSystem 25.2 v1\HRSystem\bin\HRSystem.pdb
+D:\Demo2 Final\HRSystem 25.2\HRSystem 25.2 v1\HRSystem\bin\Antlr3.Runtime.dll
+D:\Demo2 Final\HRSystem 25.2\HRSystem 25.2 v1\HRSystem\bin\EntityFramework.dll
+D:\Demo2 Final\HRSystem 25.2\HRSystem 25.2 v1\HRSystem\bin\EntityFramework.SqlServer.dll
+D:\Demo2 Final\HRSystem 25.2\HRSystem 25.2 v1\HRSystem\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Demo2 Final\HRSystem 25.2\HRSystem 25.2 v1\HRSystem\bin\Microsoft.Web.Infrastructure.dll
+D:\Demo2 Final\HRSystem 25.2\HRSystem 25.2 v1\HRSystem\bin\Newtonsoft.Json.dll
+D:\Demo2 Final\HRSystem 25.2\HRSystem 25.2 v1\HRSystem\bin\System.Web.Helpers.dll
+D:\Demo2 Final\HRSystem 25.2\HRSystem 25.2 v1\HRSystem\bin\System.Web.Mvc.dll
+D:\Demo2 Final\HRSystem 25.2\HRSystem 25.2 v1\HRSystem\bin\System.Web.Optimization.dll
+D:\Demo2 Final\HRSystem 25.2\HRSystem 25.2 v1\HRSystem\bin\System.Web.Razor.dll
+D:\Demo2 Final\HRSystem 25.2\HRSystem 25.2 v1\HRSystem\bin\System.Web.WebPages.Deployment.dll
+D:\Demo2 Final\HRSystem 25.2\HRSystem 25.2 v1\HRSystem\bin\System.Web.WebPages.dll
+D:\Demo2 Final\HRSystem 25.2\HRSystem 25.2 v1\HRSystem\bin\System.Web.WebPages.Razor.dll
+D:\Demo2 Final\HRSystem 25.2\HRSystem 25.2 v1\HRSystem\bin\WebGrease.dll
+D:\Demo2 Final\HRSystem 25.2\HRSystem 25.2 v1\HRSystem\bin\EntityFramework.xml
+D:\Demo2 Final\HRSystem 25.2\HRSystem 25.2 v1\HRSystem\bin\EntityFramework.SqlServer.xml
+D:\Demo2 Final\HRSystem 25.2\HRSystem 25.2 v1\HRSystem\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Demo2 Final\HRSystem 25.2\HRSystem 25.2 v1\HRSystem\bin\System.Web.Helpers.xml
+D:\Demo2 Final\HRSystem 25.2\HRSystem 25.2 v1\HRSystem\bin\System.Web.Mvc.xml
+D:\Demo2 Final\HRSystem 25.2\HRSystem 25.2 v1\HRSystem\bin\System.Web.Optimization.xml
+D:\Demo2 Final\HRSystem 25.2\HRSystem 25.2 v1\HRSystem\bin\System.Web.Razor.xml
+D:\Demo2 Final\HRSystem 25.2\HRSystem 25.2 v1\HRSystem\bin\System.Web.WebPages.xml
+D:\Demo2 Final\HRSystem 25.2\HRSystem 25.2 v1\HRSystem\bin\System.Web.WebPages.Deployment.xml
+D:\Demo2 Final\HRSystem 25.2\HRSystem 25.2 v1\HRSystem\bin\System.Web.WebPages.Razor.xml
+D:\Demo2 Final\HRSystem 25.2\HRSystem 25.2 v1\HRSystem\bin\Antlr3.Runtime.pdb
+D:\Demo2 Final\HRSystem 25.2\HRSystem 25.2 v1\HRSystem\bin\Newtonsoft.Json.xml
+D:\Demo2 Final\HRSystem 25.2\HRSystem 25.2 v1\HRSystem\obj\Debug\HRSystem.csprojResolveAssemblyReference.cache
+D:\Demo2 Final\HRSystem 25.2\HRSystem 25.2 v1\HRSystem\obj\Debug\HRSystem.Migrations.InitialCreate.resources
+D:\Demo2 Final\HRSystem 25.2\HRSystem 25.2 v1\HRSystem\obj\Debug\HRSystem.Migrations.migr1.resources
+D:\Demo2 Final\HRSystem 25.2\HRSystem 25.2 v1\HRSystem\obj\Debug\HRSystem.Migrations.ParentRoleNUllable.resources
+D:\Demo2 Final\HRSystem 25.2\HRSystem 25.2 v1\HRSystem\obj\Debug\HRSystem.Migrations.EmployeeChnage.resources
+D:\Demo2 Final\HRSystem 25.2\HRSystem 25.2 v1\HRSystem\obj\Debug\HRSystem.Migrations.AddRoleHierarchy.resources
+D:\Demo2 Final\HRSystem 25.2\HRSystem 25.2 v1\HRSystem\obj\Debug\HRSystem.Migrations.AddRoleHierarchy2.resources
+D:\Demo2 Final\HRSystem 25.2\HRSystem 25.2 v1\HRSystem\obj\Debug\HRSystem.Migrations.AddRoleHierarchy4.resources
+D:\Demo2 Final\HRSystem 25.2\HRSystem 25.2 v1\HRSystem\obj\Debug\HRSystem.Migrations.AddRoleHierarchy5.resources
+D:\Demo2 Final\HRSystem 25.2\HRSystem 25.2 v1\HRSystem\obj\Debug\HRSystem.Migrations.AddRoleHierarchy6.resources
+D:\Demo2 Final\HRSystem 25.2\HRSystem 25.2 v1\HRSystem\obj\Debug\HRSystem.Migrations.AddRoleHierarchy7.resources
+D:\Demo2 Final\HRSystem 25.2\HRSystem 25.2 v1\HRSystem\obj\Debug\HRSystem.Migrations.ChangeRoleHier1.resources
+D:\Demo2 Final\HRSystem 25.2\HRSystem 25.2 v1\HRSystem\obj\Debug\HRSystem.csproj.GenerateResource.Cache
+D:\Demo2 Final\HRSystem 25.2\HRSystem 25.2 v1\HRSystem\obj\Debug\HRSystem.dll
+D:\Demo2 Final\HRSystem 25.2\HRSystem 25.2 v1\HRSystem\obj\Debug\HRSystem.pdb
